@@ -20,7 +20,7 @@ Using this kind of bot we can deploy these in mobile phones or websites and may 
 
 ## how to use this
 
-step 1 - download ipynb notebook
-step 2 - downlaod intents.json
+step 1 - download ipynb notebook.
+step 2 - downlaod intents.json.
 step-3 - run the file and bot gui will be shown like above one.
 
