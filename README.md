@@ -22,15 +22,15 @@ One of the great challenges is to merge a chatbot with Cognitive Behavioral Ther
 
 From this learning, we understood that key factors of a CBT session included:
 
-“targeting emotions by changing thoughts and behaviours that are contributing to distressing emotions”
-Creating a strong therapeutic relationship through empathy (validating the patient’s experience), genuineness (being authentic), - positive regard (respect)
-Collaborative work of skill acquisition and homework to mould positive thought patterns
-Teaching skills rather than just talking
-Most importantly, the therapist must have collaborative, assertive, and nonjudgemental.
+1. “targeting emotions by changing thoughts and behaviours that are contributing to distressing emotions”
+2. Creating a strong therapeutic relationship through empathy (validating the patient’s experience), genuineness (being authentic), - positive regard (respect)
+3. Collaborative work of skill acquisition and homework to mould positive thought patterns
+4. Teaching skills rather than just talking
+5. Most importantly, the therapist must have collaborative, assertive, and nonjudgemental.
 
 ## how to use this
 
-### step 1 - download ipynb notebook.
-### step 2 - downlaod intents.json.
-### step-3 - run the file and bot gui will be shown like above one.
+1. download ipynb notebook.
+2. downlaod intents.json.
+3. run the file and bot gui will be shown like above one.
 
