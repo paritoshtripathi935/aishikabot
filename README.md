@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋,Welcome I'am AISHIKA</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## about me
+## About me
 I'am a Cognitive Behavioral Therapy Bot that will help to provide easy access to mental health care.
 
-## in action
+## In action
 
 ![logo](https://github.com/paritoshtripathi935/aishikabot/blob/main/Screenshot_2022-02-12_12-31-18.png)
 
