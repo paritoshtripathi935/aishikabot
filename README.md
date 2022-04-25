@@ -54,7 +54,7 @@ From this learning, we understood that key factors of a CBT session included:
 2. Within this intents JSON file, alongside each intents tag and pattern, there will be responses.
 3. Libraries we are going to use are - json, string, random, nltk, numpy, wordnetlemmatizer, tensorflow
 
-## 📘&nbsp Coding process 
+## 📘&nbsp; Coding process 
 1. First we going to use Lemmatizer method - It helps understand the contextual meaning.
 2. Applying Bag of words - The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier
 3. Sequential Neural Net - A Sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor. We are going to use to 3 dense layer and two 2 dropout to reduce overfitting.
