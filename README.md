@@ -16,7 +16,7 @@ I'am a Cognitive Behavioral Therapy Bot that will help to provide easy access to
 
 ![logo](https://github.com/paritoshtripathi935/aishikabot/blob/main/Screenshot_2022-02-12_12-31-18.png)
 
-## what is CBT?
+## :bulb: what is CBT?
 Cognitive behavioral therapy (CBT) is a problem-focused psychotherapy treatment that teaches clients to identify and change unhelpful thinking patterns and behaviors. CBT has been successful in treating anxiety, depression, eating disorders, substance abuse disorders, marital problems, psychosis and personality disorders (Beck Institute for Cognitive Behavior Therapy, 2019).
 
 CBT uses many different tools to help people change their thoughts and behavior. These include:
@@ -29,7 +29,7 @@ Problem-solving skills training. Clients are given skills training so they can s
 
 Social skills training. Clients learn how to improve their communication skills and make friends more easily by practicing social interactions with each other in group therapy sessions (Beck Institute for Cognitive Behavior Therapy, 2019).
 
-## The problem Aishika-bot solves
+## :bulb: The problem Aishika-bot solves
 The rise of A. I can be seen in many fields and it had shown great results.
 so why not merge A. I with Cognitive Behavioral Therapy (CBT) and increase the access to mental healthcare especially In a country like India where we have very less regard for mental health also have very less mental health doctors.
 
@@ -49,12 +49,12 @@ From this learning, we understood that key factors of a CBT session included:
 4. Teaching skills rather than just talking
 5. Most importantly, the therapist must have collaborative, assertive, and nonjudgemental.
 
-## how aishika is built ?
+## :clap: how aishika is built ?
 1. I built up an intents JSON file that defines certain intentions that could occur during the interactions with our chatbot.
 2. Within this intents JSON file, alongside each intents tag and pattern, there will be responses.
 3. Libraries we are going to use are - json, string, random, nltk, numpy, wordnetlemmatizer, tensorflow
 
-## Coding process 
+## 📘&nbsp Coding process 
 1. First we going to use Lemmatizer method - It helps understand the contextual meaning.
 2. Applying Bag of words - The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier
 3. Sequential Neural Net - A Sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor. We are going to use to 3 dense layer and two 2 dropout to reduce overfitting.
