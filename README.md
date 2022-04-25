@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋,Welcome I'am AISHIKA</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## :star: Star us on GitHub — it helps!
+
+
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tsvillain/Twitter-Bot/issues)
+[![MIT License](https://img.shields.io/github/license/tsvillain/Twitter-Bot.svg?style=flat-square)](https://github.com/tsvillain/Twitter-Bot/blob/master/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/paritosh-tripathi-social/)
+
 ## About me
 I'am a Cognitive Behavioral Therapy Bot that will help to provide easy access to mental health care.
 
