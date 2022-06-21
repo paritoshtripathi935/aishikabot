@@ -14,7 +14,7 @@ I'am a Cognitive Behavioral Therapy Bot that will help to provide easy access to
 
 ## In action
 
-![logo](https://github.com/paritoshtripathi935/aishikabot/blob/main/Screenshot_2022-02-12_12-31-18.png)
+![logo](https://github.com/paritoshtripathi935/aishikabot/blob/main/resources/Image.png)
 
 ## :bulb: what is CBT?
 Cognitive behavioral therapy (CBT) is a problem-focused psychotherapy treatment that teaches clients to identify and change unhelpful thinking patterns and behaviors. CBT has been successful in treating anxiety, depression, eating disorders, substance abuse disorders, marital problems, psychosis and personality disorders (Beck Institute for Cognitive Behavior Therapy, 2019).
