@@ -63,4 +63,5 @@ From this learning, we understood that key factors of a CBT session included:
 1. download ipynb notebook.
 2. downlaod intents.json.
 3. run the file and bot gui will be shown like above one.
+4. update
 
