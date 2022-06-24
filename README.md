@@ -65,3 +65,5 @@ From this learning, we understood that key factors of a CBT session included:
 3. run the file and bot gui will be shown like above one.
 4. update
 
+
+## Deployment Part
